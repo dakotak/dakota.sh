@@ -3,9 +3,9 @@ title: dakota.sh
 ---
 
 # Hello, I am Dakota
-I am a _DevOps Engineer_ with a passion for technology, and automation.
+I am a _DevOps Engineer_ with a passion for technology and automation.
 
-I've had many titles throughout my 15 years of working in technology. Despite the many different titles, I have always done the same thing: create solutions with technology to solve real problems. I especially have a passion for automation, mostly because I believe that humans are better used in more creative work, and that humans following a repetitive process is mundane and error-prone.
+Throughout my 15 years in the technology industry, I've held various titles but always pursued the same goal: creating solutions with technology to solve real problems. I have a particular passion for automation because I believe humans are better suited for creative tasks, while repetitive processes are mundane and prone to error.
 
 > People are not deterministic, computers are.
 
@@ -13,13 +13,13 @@ I've had many titles throughout my 15 years of working in technology. Despite th
 - Automation
 - Privacy
 - AI
-- DevEx
+- Developer Experience (DevEx)
 
 ## Skills
 - Development
-  - My favorite languages are Go and Python
-- Problem solving
-- Strengths Finder
+  - Favorite languages: Go and Python
+- Problem Solving
+- [StrengthsFinder](https://en.wikipedia.org/wiki/CliftonStrengths):
   - Strategic
   - Ideation
   - Learner
