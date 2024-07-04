@@ -1,3 +1,17 @@
 baseURL = 'https://dakota.sh/'
 languageCode = 'en-us'
 title = 'dakota.sh'
+
+theme='archie'
+
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/dakotak"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1

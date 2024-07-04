@@ -1,0 +1,13 @@
+<footer>
+  <div style="display:flex">
+    {{- range $index, $key := .Site.Params.Social -}}
+    <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+    {{- end -}}
+  </div>
+</footer>
+
+{{- if (isset .Site.Params "social") -}}
+<script>
+  feather.replace()
+</script>
+{{- end -}}
